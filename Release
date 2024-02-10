@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: i9lib
+Label: i9lib
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: i9lib: a cydia repo for ios 9 tweaks
